@@ -1,6 +1,6 @@
 # flashcards
 
-#### A simple program that handles flashcards. Flashcards are cards that on one side you have a term i.e. "liviu" and the other side a definition i.e. "is a developer"; once a card was saved, the program can prompt the user to ask for definitions of N cards (terms); if the user makes a mistake, they will be saved. The program also keeps logs of all the inputs and outputs and also informations about the cards + their mistakes. These informations are stored in files.
+#### Flashcards is a game where users are presented with terms and definitions on separate sides of a card, and they have to recall the correct definition for each term. Incorrect answers are saved as mistakes, and all user interactions are logged in file records.
 ---
 ##### Example
 ```
